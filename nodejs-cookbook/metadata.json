@@ -8,6 +8,7 @@
   "platforms": {
   },
   "dependencies": {
+    "application_javascript": "~> 1.0.0"
   },
   "recommendations": {
   },

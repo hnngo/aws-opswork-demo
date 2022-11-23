@@ -10,7 +10,7 @@ app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.get('/api', function (req, res) {
-  res.json({ data: "Hello API" });
+  res.json({ data: "Hello API!!!" });
 });
 
 app.get('/', function (req, res) {
